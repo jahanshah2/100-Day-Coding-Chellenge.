@@ -1,6 +1,6 @@
 let car = {
-    make: "Toyota",
-    model: "Corolla",
+    make: "Honda",
+    model: "Civic",
     year: 2020
 };
 

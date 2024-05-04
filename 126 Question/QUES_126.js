@@ -1,6 +1,6 @@
 "use strict";
 const myObject = {
-    property: "jahan",
+    property: "30",
     outerMethod: function () {
         console.log(this.property); // Works as expected, logs "Value"
         const innerMethod = () => {

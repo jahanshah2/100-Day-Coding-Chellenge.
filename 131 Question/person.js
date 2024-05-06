@@ -2,7 +2,6 @@
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.person = void 0;
 class person {
-    name;
     constructor(name) {
         this.name = name;
     }

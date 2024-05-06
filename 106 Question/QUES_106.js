@@ -5,4 +5,3 @@ function isLeapYear(year) {
 }
 console.log(isLeapYear(2020)); // Outputs: true
 console.log(isLeapYear(1900)); // Outputs: false
-console.log(2020 % 4 === 0);

@@ -1,7 +1,7 @@
 "use strict";
 let places = ["Iskardu", "Islamabad", "Tanzania", "France", "Bora Bora"];
 console.log("Original order:", places);
-console.log("Alphabetical order:", [places].sort());
+console.log("Alphabetical order:", [...places].sort());
 console.log("Original order:", places);
 console.log("Reverse alphabetical order:", [...places].sort().reverse());
 console.log("Original order:", places);

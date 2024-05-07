@@ -1,5 +1,5 @@
 function make_album(artist_name: string, album_title: string,num_tracks?: number){
-    let album = {
+    let album:any = {
     artist : artist_name,
     title : album_title
     }
